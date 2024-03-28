@@ -1,6 +1,7 @@
 ### ✨ KNN (K-Nearest Neighbors) Algorithm Implementation
 
 This project implements the K-Nearest Neighbors (KNN) algorithm for classification purposes. KNN is a simple and effective algorithm for classifying data points based on their similarity to other data points in a given dataset.
+This project was made for NAI (Tools Of Artificial Inteligence) class at Pjait.
 
 #### 📝 Project Overview
 
